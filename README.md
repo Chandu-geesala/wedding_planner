@@ -2,7 +2,7 @@
 
 ## 📱 Demo Video
 
-[![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)]((https://drive.google.com/file/d/1KOJDXyPk-tIP8XuVo43Ax3NsSWCyNLOp/view?usp=sharing))
+[![Demo Video](https://img.shields.io/badge/▶-Play%20Demo-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/1KOJDXyPk-tIP8XuVo43Ax3NsSWCyNLOp/view?usp=sharing)
 
 
 *Click above to watch the 2-3 minute demo video showcasing all features*
